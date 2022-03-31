@@ -12,7 +12,7 @@ class DataService extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Second Screen'),
+        title: const Text('DataService'),
       ),
       body: Center(
         child: Container(
